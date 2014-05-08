@@ -1,0 +1,28 @@
+/*
+Cheat sheet:
+font: italic small-caps bold 34px/100px "Times New Roman", Times, serif;
+*/
+body {
+	font: 0.8em Arial, sans-serif;
+	color: #333;
+	background: #eee;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 800px;
+	/*background: #fff;*/
+}
+#comic {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 618px;
+	/*background: #fff;*/
+
+}
+#comic img {
+	box-shadow: 1px 1px 10px #333;
+}
+#pagination {
+	float:right;
+}

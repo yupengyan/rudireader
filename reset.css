@@ -1,0 +1,90 @@
+a,abbr,abbr[title],address,cite,code,del,dfn,kbd,em,ins,samp,strong,var
+{
+background-color: inherit;
+border		: 0;
+color		: inherit;
+font-family	: inherit;
+font-size	: 100%;
+font-style	: inherit;
+font-weight	: inherit;
+text-decoration	: inherit;
+}
+
+big,blink,center,small,strike,xmp
+{
+display		: none;
+}
+
+sub
+{
+vertical-align	: sub;
+font-size	: inherit;
+line-height	: inherit;
+}
+
+sup
+{
+vertical-align	: super;
+font-size	: inherit;
+line-height	: inherit;
+}
+
+body,blockquote,div,dd,dl,dt,fieldset,form,img,input,h1,h2,h3,h4,h5,h6,label,li,ol,p,pre,select,table,td,textarea,th,ul
+{ 
+margin		: 0;
+padding		: 0;
+text-align	: inherit;
+}
+
+body
+{
+font-style	: normal;
+font-weight	: normal;
+text-decoration	: none;
+}
+
+h1,h2,h3,h4,h5,h6,th
+{
+font-size	: 100%;
+font-weight	: inherit;
+}
+
+table
+{
+border-collapse	: collapse;
+border-spacing	: 0;
+}
+
+fieldset,img
+{ 
+border		: 0;
+}
+
+ol,ul
+{
+list-style	: none;
+}
+
+caption,th
+{
+text-align	:left;
+}
+
+q:before,q:after
+{
+content		: '';
+}
+
+:focus
+{
+outline		: 0;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section { 
+display		: block;
+}
+
+
+::-moz-focus-inner {
+border: 0 !important;
+}

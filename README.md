@@ -1,4 +1,3 @@
-rudireader
-==========
-
-A rudimentary online sequential image viewer.
+Rudireader (tentative)
+=====
+A barebones online sequential picture reader.
